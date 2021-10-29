@@ -1,0 +1,173 @@
+
+body {
+    background-image: url("https://images.pexels.com/photos/1149363/pexels-photo-1149363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-position: top;
+}
+
+#blackass9 {
+    left:2%;
+    top: 3%;
+    position:absolute;
+    height: 10%;
+}
+.hide {
+    display:none;
+}
+.hidee {
+    display:none;
+}
+.hideee {
+    display:none;
+}
+.hideeee {
+    display:none;
+}
+p {
+    color:pink;
+    height:10%;
+    top:-1.5%;
+    font-size:250%;
+    left:7%;
+    position:absolute;
+
+}
+h1 span {
+    background-color:black;
+}
+p span {
+    
+    background-color:black;
+}
+#h1 {
+    top:2%;
+    left:6%;
+    color:pink;
+    position: absolute;
+}
+
+#question1b {
+    top:-1.5%;
+    font-size:250%;
+    left:7%;
+    position:absolute;
+}
+#button1 {
+    top:65%;
+    left:53%;
+}
+#button2 {
+    top:55%;
+    left:37%
+}
+#button3 {
+    top:65%;
+    left:37%;
+}
+#button4 {
+    left:53%;
+    top:75%;
+}
+#button5 {
+    left:37%;
+    top:75%
+}
+#button6 {
+    left:53%;
+    top:55%;
+}
+#button23 {
+    left:53%;
+    top:55%;
+}
+#button7 {
+    top:65%;
+    left:53%;
+}
+#button8 {
+    top:55%;
+    left:37%
+}
+#button9 {
+    top:65%;
+    left:37%;
+}
+#button10 {
+    left:53%;
+    top:75%;
+}
+#button11 {
+    left:37%;
+    top:75%
+}
+#button12 {
+    left:53%;
+    top:55%;
+}
+#button13 {
+    top:65%;
+    left:53%;
+}
+#button14{
+    top:55%;
+    left:37%
+}
+#button15{
+    top:65%;
+    left:37%;
+}
+#button16 {
+    left:53%;
+    top:75%;
+}
+#button17 {
+    left:37%;
+    top:75%
+}
+#button18 {
+    top:65%;
+    left:53%;
+}
+#button19{
+    top:55%;
+    left:37%
+}
+#button20{
+    top:65%;
+    left:37%;
+}
+#button21 {
+    left:53%;
+    top:75%;
+}
+#button22 {
+    left:37%;
+    top:75%
+}
+button:hover {
+    transform: scale(.96)
+}
+button {
+    border-radius:100px;
+    position:absolute;
+    color:pink;
+    background-color:black;
+    left:50%;
+    width:12%;
+    top:70%;
+    height:8%;
+    font-size:85%;
+    background-size:contain;
+    background-image:url("https://images.pexels.com/photos/2216607/pexels-photo-2216607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+}
+#startbutton {
+    left:45%;
+    width:15%;
+    height:10%;
+    font-size:200%
+}
+#finishbutton {
+    left:45%;
+    width:15%;
+    height:10%;
+    font-size:200%
+}
